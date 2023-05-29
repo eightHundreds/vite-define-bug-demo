@@ -1,0 +1,1 @@
+# vite-define-bug-demo
